@@ -1,4 +1,4 @@
---👋 Hi, I'm Deepak Kumar, a passionate Software Developer
+--👋 Hi, I'm Deepak Kumar, a passionate Software Developer <br>
 --👨‍💻 I specialize in Java and Spring Boot development
 --🚀 Currently exploring new technologies to level up my backend skills
 --🤝 Open to collaboration on exciting and impactful software projects
